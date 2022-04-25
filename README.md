@@ -1,2 +1,1 @@
 # latestnovel
-latestnovel
